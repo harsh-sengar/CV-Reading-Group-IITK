@@ -7,7 +7,7 @@
  | Session No. | Date       | Time      | Presenter                 | Paper Title                                                            | Conf/Year | Links |
 |-----------|------------|-----------|---------------------------|------------------------------------------------------------------------|-----------|-------|
 | 1 | 14/12/2021 | 11:00 IST | Harshvardhan Pratap Singh | [Image Inpainting via Conditional Texture and Structure Dual Generation](#session-1) | ICCV 2021 |  [paper (cvf)](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Inpainting_via_Conditional_Texture_and_Structure_Dual_Generation_ICCV_2021_paper.html), [slides (pptx)](slides/session1_image_inpainting.pptx), [slides (pdf)](slides/session1_image_inpainting.pdf)      |
-|2 | 21/12/2021 | 11:00 IST | Kranti Kumar Parida       | [(1) Structure from Silence: Learning Scene Structure from Ambient Sound; (2) Learning Audio-Visual Dereverberation](#session-2)                                                                    |  (1) CoRL 2021; (2) arxiv 2021         |   [(1) paper (openreview)](https://openreview.net/forum?id=ht3aHpc1hUt), [(2) paper (arxiv)](https://arxiv.org/abs/2106.07732), [slides (ppt)](slides/session2_sound2depth_dereverberation.pdf)   |
+|2 | 21/12/2021 | 11:00 IST | Kranti Kumar Parida       | [(1) Structure from Silence: Learning Scene Structure from Ambient Sound; (2) Learning Audio-Visual Dereverberation](#session-2)                                                                    |  (1) CoRL 2021; (2) arxiv 2021         |   [(1) paper (openreview)](https://openreview.net/forum?id=ht3aHpc1hUt), [(2) paper (arxiv)](https://arxiv.org/abs/2106.07732), [slides (pdf)](slides/session2_sound2depth_dereverberation.pdf)   |
 
 ----
 ## Sessions
@@ -28,7 +28,7 @@
 
 - **Date/Time:** 21/12/2021, 11:00 IST
 - **Presenter:** Kranti Kumar Parida
-- **Presentation:** [slides (ppt)](slides/session2_sound2depth_dereverberation.pdf)
+- **Presentation:** [slides (pdf)](slides/session2_sound2depth_dereverberation.pdf)
 
 #### Structure from Silence: Learning Scene Structure from Ambient Sound
 - **Abstract:** From whirling ceiling fans to ticking clocks, the sounds that we hear subtly vary as we move through a scene. We ask whether these ambient sounds convey information about 3D scene structure and, if so, whether they provide a useful learning signal for multimodal models. To study this, we collect a dataset of paired audio and RGB-D recordings from a variety of quiet indoor scenes. We then train models that estimate the distance to nearby walls, given only audio as input. We also use these recordings to learn multimodal representations through self-supervision, by training a network to associate images with their corresponding sounds. These results suggest that ambient sound conveys a surprising amount of information about scene structure, and that it is a useful signal for learning multimodal features.
