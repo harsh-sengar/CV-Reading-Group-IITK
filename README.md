@@ -33,9 +33,9 @@
       - [Video Autoencoder: self-supervised disentanglement of static 3D structure and motion (ICCV 2021)](#video-autoencoder-self-supervised-disentanglement-of-static-3d-structure-and-motion-iccv-2021)
     - [Session 10: Neeraj Matiyali (22/03/2022)](#session-10-neeraj-matiyali-22032022)
       - [Neural Voice Cloning with a Few Samples (NeurIPS 2018)](#neural-voice-cloning-with-a-few-samples-neurips-2018)
-    - [Session 10: Harshvardhan Pratap Singh (29/03/2022)](#session-10-harshvardhan-pratap-singh-29032022)
+    - [Session 11: Harshvardhan Pratap Singh (29/03/2022)](#session-11-harshvardhan-pratap-singh-29032022)
       - [TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up (NeurIPS 2021)](#transgan-two-pure-transformers-can-make-one-strong-gan-and-that-can-scale-up-neurips-2021)
-    - [Session 11: Kranti Kumar Parida (12/04/2022)](#session-11-kranti-kumar-parida-12042022)
+    - [Session 12: Kranti Kumar Parida (12/04/2022)](#session-12-kranti-kumar-parida-12042022)
       - [Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis (arxiv 2022)](#audio-visual-speech-codecs-rethinking-audio-visual-speech-enhancement-by-re-synthesis-arxiv-2022)
       - [Visual Acoustic Matching (arxiv 2022)](#visual-acoustic-matching-arxiv-2022)
 
@@ -210,7 +210,7 @@
 
 ----
 
-### Session 10: Harshvardhan Pratap Singh (29/03/2022)
+### Session 11: Harshvardhan Pratap Singh (29/03/2022)
 
 - **Date/Time:** 29/03/2022, 11:00 IST
 - **Presenter:** Harshvardhan Pratap Singh
@@ -223,7 +223,7 @@
 
 ----
 
-### Session 11: Kranti Kumar Parida (12/04/2022)
+### Session 12: Kranti Kumar Parida (12/04/2022)
 
 - **Date/Time:** 12/04/2022, 11:00 IST
 - **Presenter:** Kranti Kumar Parida
