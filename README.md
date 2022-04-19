@@ -38,6 +38,8 @@
     - [Session 12: Kranti Kumar Parida (12/04/2022)](#session-12-kranti-kumar-parida-12042022)
       - [Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis (arxiv 2022)](#audio-visual-speech-codecs-rethinking-audio-visual-speech-enhancement-by-re-synthesis-arxiv-2022)
       - [Visual Acoustic Matching (arxiv 2022)](#visual-acoustic-matching-arxiv-2022)
+    - [Session 13: Ayush Pande (19/04/2022)](#session-13-ayush-pande-19042022)
+      - [A Robust and Efficient Video Representation for Action Recognition (IJCV 2016)](#a-robust-and-efficient-video-representation-for-action-recognition-ijcv-2016)
 
 
 ## Sessions
@@ -227,7 +229,7 @@
 
 - **Date/Time:** 12/04/2022, 11:00 IST
 - **Presenter:** Kranti Kumar Parida
-- **Presentation:** 
+- **Presentation:** [slides (pdf)](slides/session12_av_speech_codecs_visual_am.pdf)
   
 #### Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis (arxiv 2022)
 - **Abstract:** Since facial actions such as lip movements contain significant information about speech content, it is not surprising that audio-visual speech enhancement methods are more accurate than their audio-only counterparts. Yet, state-of-the-art approaches still struggle to generate clean, realistic speech without noise artifacts and unnatural distortions in challenging acoustic environments. In this paper, we propose a novel audio-visual speech enhancement framework for high-fidelity telecommunications in AR/VR. Our approach leverages audio-visual speech cues to generate the codes of a neural speech codec, enabling efficient synthesis of clean, realistic speech from noisy signals. Given the importance of speaker-specific cues in speech, we focus on developing personalized models that work well for individual speakers. We demonstrate the efficacy of our approach on a new audio-visual speech dataset collected in an unconstrained, large vocabulary setting, as well as existing audio-visual datasets, outperforming speech enhancement baselines on both quantitative metrics and human evaluation studies.
@@ -238,3 +240,14 @@
 - **Paper Link:** [paper (arxiv)](https://arxiv.org/abs/2202.06875)
 
 ---
+
+### Session 13: Ayush Pande (19/04/2022)
+
+- **Date/Time:** 19/04/2022, 11:00 IST
+- **Presenter:** Ayush Pande
+- **Presentation:** [slides (pdf)]()
+
+#### A Robust and Efficient Video Representation for Action Recognition (IJCV 2016)
+- **Abstract:** This paper introduces a state-of-the-art video representation and applies it to efficient action recognition and detection. We first propose to improve the popular dense trajectory features by explicit camera motion estimation. More specifically, we extract feature point matches between frames using SURF descriptors and dense optical flow. The matches are used to estimate a homography with RANSAC. To improve the robustness of homography estimation, a human detector is employed to remove outlier matches from the human body as human motion is not constrained by the camera. Trajectories consistent with the homography are considered as due to camera motion, and thus removed. We also use the homography to cancel out camera motion from the optical flow. This results in significant improvement on motion-based HOF and MBH descriptors. We further explore the recent Fisher vector as an alternative feature encoding approach to the standard bag-of-words histogram, and consider different ways to include spatial layout information in these encodings. We present a large and varied set of evaluations, considering (i) classification of short basic actions on six datasets, (ii) localization of such actions in feature-length movies, and (iii) large-scale recognition of complex events. We find that our improved trajectory features significantly outperform previous dense trajectories, and that Fisher vectors are superior to bag-of-words encodings for video recognition tasks. In all three tasks, we show substantial improvements over the state-of-the-art results.
+- **Paper Link:** [paper (arxiv)](https://arxiv.org/abs/1504.05524)
+  
